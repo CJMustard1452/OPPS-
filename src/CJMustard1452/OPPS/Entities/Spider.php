@@ -6,7 +6,7 @@ use pocketmine\entity\Animal;
 
 class Spider extends Animal{
 
-const NETWORK_ID = self::SPIDER; //if you change this to SHEEP, it will look like sheep
+const NETWORK_ID = self::SPIDER;
 
 public $width = 0.9;
 public $height = 1.4;
