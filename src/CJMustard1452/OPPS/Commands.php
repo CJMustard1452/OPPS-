@@ -56,7 +56,7 @@ class Commands implements Listener{
 								break;
 						}
 					}else{
-						$sender->sendMessage("§3[§4OPPS+§3]§3 /opps (Glock | Semi | Machine | AK47 | RPG) or (benz)");
+						$sender->sendMessage("§3[§4OPPS+§3]§3 /opps (Glock | Semi | Machine | AK47 | RPG) or (Benz)");
 					}
 				}
 			}else{
