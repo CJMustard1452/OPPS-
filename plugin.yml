@@ -1,0 +1,14 @@
+---
+name: OPPS
+version: 0.0.1
+main: CJMustard1452\OPPS\Main
+api: 3.29.0
+
+commands:
+  opps:
+    permission: opps.admin
+
+permissions:
+  opps.admin:
+    default: op
+...
